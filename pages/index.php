@@ -41,6 +41,8 @@ if ($conn) {
 <html lang="en">
 
 <head>
+    <meta name="google-site-verification" content="EpaDGNvYKSMaYMV2oLLdvKt4OppKvMA6462KycfSLlg" />
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dashboard — PTA Arena Pro</title>
